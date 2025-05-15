@@ -1,0 +1,50 @@
+.footer{
+    margin: 50px 170px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.footer-top{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-top-left p{
+    font-size: 18px;
+    max-width: 700px;
+}
+
+.footer-top-right{
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+
+.footer-email-input{
+    display: flex;
+    gap: 30px;
+    padding: 10px 30px;
+    border-radius: 50px;
+    background: #d7d6d6;
+    padding-right: 80px ;
+}
+
+.footer-email-input input{
+    outline: none;
+    border: none;
+    background: transparent;
+    color: #A0A0A0;
+    font-family: Outfit;
+    font-size: 15px;
+}
+
+/*.footer-subscribe{*/
+/*    font-size: 18px;*/
+/*    padding: 22px 20px;*/
+/*    !*border-radius: 50px;*!*/
+/*    background: linear-gradient(264deg,#DF8908 -5.09%, #B923E1 106.28%);*/
+/*    cursor: pointer;*/
+/*    transition: 0.3s;*/
+
+/*}*/
